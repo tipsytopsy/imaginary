@@ -1,6 +1,6 @@
 package main
 
-import "gopkg.in/h2non/bimg.v1"
+import "github.com/tipsytopsy/bimg"
 
 const Version = "0.1.27"
 
